@@ -9,6 +9,3 @@ dependencies:
   - pandas
   - bokeh
   - rise
-  - pip
-  - pip:
-      - julia
